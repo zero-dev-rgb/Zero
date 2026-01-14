@@ -27,6 +27,7 @@ body {
 
 .navbar span {
   color: #ff6a00;
+  font-size: 10px;
 }
 
 .navbar ul {
@@ -321,4 +322,5 @@ body {
   color: #ff6a00b2;
   letter-spacing: 1px;
 }
+
 }
